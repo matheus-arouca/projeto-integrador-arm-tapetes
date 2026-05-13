@@ -1,4 +1,4 @@
-# Projeto Integrador - ARM Tapetes
+# Projeto - ARM Tapetes
 
 Projeto acadêmico em desenvolvimento na disciplina Projeto Integrador I do curso de Análise e Desenvolvimento de Sistemas da FATEC Mogi das Cruzes.
 
